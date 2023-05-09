@@ -1,0 +1,2 @@
+# static
+save static files.
