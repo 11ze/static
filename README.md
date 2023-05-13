@@ -1,4 +1,4 @@
 # static
 
-- 保存我所有静态资源。
-- 使用 [jsDelivr](https://www.jsdelivr.com/) 加速访问。
+- Host for static files
+- Use [js Delivr](https://www.jsdelivr.com/) to speed up access
